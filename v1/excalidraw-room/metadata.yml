@@ -1,0 +1,16 @@
+version: 1
+
+metadata:
+  name: Excalidraw room
+  version: 0.0.1
+  category: Other
+  tagline: Excalidraw room server
+  developers:
+    Excalidraw: https://excalidraw.com/
+  description:
+    TODO
+  repos:
+    Main: https://github.com/excalidraw/excalidraw-room
+  support: https://t.me/nirvati
+  icon: https://official-app-icons.nirvati.org/excalidraw/icon.svg
+  license: MIT
