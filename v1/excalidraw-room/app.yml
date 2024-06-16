@@ -1,0 +1,6 @@
+version: 1
+
+containers:
+  main:
+    image: excalidraw/excalidraw-room:latest
+    ingress_port: 80
